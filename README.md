@@ -1,4 +1,4 @@
-<img width="696" height="508" alt="image" src="https://github.com/user-attachments/assets/5e92a078-ffd4-40be-8b99-423234f73204" />
+
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>AIM:</h3>
 <br>
